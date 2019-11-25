@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="44694" started-at="2019-11-25T11:26:36Z" finished-at="2019-11-25T11:27:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="44694" started-at="2019-11-25T11:26:36Z" finished-at="2019-11-25T11:27:21Z">
+      <class name="TestNG.ProjTestNG">
+        <test-method status="PASS" signature="verifytitle()[pri:0, instance:TestNG.ProjTestNG@59f95c5d]" name="verifytitle" duration-ms="26996" started-at="2019-11-25T16:56:36Z" finished-at="2019-11-25T16:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+        <test-method status="PASS" signature="verifytext()[pri:1, instance:TestNG.ProjTestNG@59f95c5d]" name="verifytext" duration-ms="17653" started-at="2019-11-25T16:57:03Z" finished-at="2019-11-25T16:57:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytext -->
+      </class> <!-- TestNG.ProjTestNG -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
